@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly interact with your document collection by asking questions and receiving accurate answers, enhancing productivity for researchers and professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
