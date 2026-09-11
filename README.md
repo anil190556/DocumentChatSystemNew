@@ -193,7 +193,7 @@ I did not use AI-generated code without reading and understanding it. Every gene
 
 ## Screenshots
 
-See `/screenshots` directory in the repository for UI screenshots of:
+See  "screenshots.PNG" for UI screenshots of:
 - Document upload and indexing flow
 - Chat interface with citation cards expanded
 - Source excerpt preview
